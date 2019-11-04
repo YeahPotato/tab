@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+}
+
+* {
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+span {
+  padding: 12px;
+  cursor: pointer;
+}
+ul {
+  width: 200px;
+  height: 120px;
+  border: 1px solid #ccc;
+  overflow: hidden;
+}
+li {
+  float: left;
+  width: 200px;
+  height: 120px;
+}
